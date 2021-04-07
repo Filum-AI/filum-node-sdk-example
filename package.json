@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "filum-node-sdk": "0.0.3-b"
+    "filum-node-sdk": "0.0.4"
   },
   "devDependencies": {
     "@types/node": "^14.14.37",
