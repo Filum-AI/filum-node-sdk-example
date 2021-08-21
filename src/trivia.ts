@@ -6,7 +6,6 @@ for (let i = 0; i < 10; i++) {
     const your_user_id = String('Testing User ' + i)
     client.identify({
         user_id: your_user_id,
-        event_name: 'Identify',
         event_params: {
             'name': String("Mock User " + i),
             'phone': '0987654321',
